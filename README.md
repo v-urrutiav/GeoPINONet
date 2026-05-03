@@ -11,7 +11,7 @@ GeoPINONet is a geometry-conditioned physics-informed neural operator for full-f
 This repository accompanies the manuscript:
 
 > **GeoPINONet: Sparse-Supervised Physics-Informed Operator Learning for Full-Field Prediction in Variable 3D Elastic Domains**
-> Vicente Urrutia Valdés, Iván La Fé-Perdomo — *Pontificia Universidad Católica de Valparaíso, Chile*
+> Vicente Urrutia Valdés, Iván La Fé-Perdomo, Angel Rodríguez Soto — *Pontificia Universidad Católica de Valparaíso, Chile*
 
 ---
 
